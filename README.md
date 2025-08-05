@@ -45,12 +45,9 @@ Understand the role of technical indicators in derivative valuation
 
 Serve as a base model for algorithmic trading systems
 
-📁 Repository Structure
-bash
-Copy
-Edit
-├── OptionPricingwithML.ipynb      # Main notebook with full workflow
-├── README.md                      # Project documentation
+├── OptionPricingwithML.ipynb      
+├── README.md                      
+
 ✅ Future Improvements
 Incorporate more advanced models (e.g., XGBoost, Neural Networks)
 
